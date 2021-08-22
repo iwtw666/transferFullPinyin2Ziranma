@@ -1,0 +1,2 @@
+# transferFullPinyin2Ziranma
+将搜狗拼音词库txt文件转成全拼
