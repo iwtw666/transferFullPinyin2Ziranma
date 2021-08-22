@@ -1,0 +1,40 @@
+u   sh
+v   zh
+i   ch
+
+
+D	uang
+S	iong
+D	iang
+R	uan
+Y	uai
+M	ian
+C	iao
+S	ong
+G	eng
+H	ang
+Y	ing
+B	ou
+P	un
+
+W	ia
+N	in
+
+W	ua
+T	ue	特约
+V	ui	未遂
+
+O	uo
+
+
+L	ai	来
+J	an	鸡蛋
+K	ao	烤
+Z	ei	贼
+F	en	分
+
+X	ie	谢
+Q	iu	求
+
+
+
